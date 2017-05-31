@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidDevNewsRestServer.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidDevNewsRestServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidDevNewsRestServer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidDevNewsRestServer_main.iml" group="AndroidDevNewsRestServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidDevNewsRestServer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidDevNewsRestServer_test.iml" group="AndroidDevNewsRestServer" />
+    </modules>
+  </component>
+</project>
